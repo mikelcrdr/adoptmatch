@@ -1,5 +1,7 @@
+/* Tailwind v4 */
 @import "tailwindcss";
 
+/* Tu tema/estilos */
 :root {
   --background: #ffffff;
   --foreground: #171717;
